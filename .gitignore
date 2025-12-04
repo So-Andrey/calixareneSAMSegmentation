@@ -10,6 +10,7 @@ wheels/
 .venv
 
 content/
+content1/
 .ipynb_checkpoints/
 *.npz
 *.tif
